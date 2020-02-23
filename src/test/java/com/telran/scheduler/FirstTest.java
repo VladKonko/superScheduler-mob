@@ -28,8 +28,10 @@ public class FirstTest {
     }
     @Test
     public void testOpenApp(){
-        System.out.println("gooo");
+        System.out.println("sooo goood ");
     }
+
+
 
     @AfterClass
     public void tearDown() throws InterruptedException {
